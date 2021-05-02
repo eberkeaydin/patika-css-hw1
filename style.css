@@ -1,0 +1,24 @@
+#navbar{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(91, 0, 119);
+}
+
+body {
+    background-image: url("img/bckgrnd.png");
+    background-size: 1000%;
+    background-repeat: no-repeat;
+    
+  }
+  .center {
+    margin: auto;
+    width: 40%;
+    padding: 10px;
+  }
+
+  img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
